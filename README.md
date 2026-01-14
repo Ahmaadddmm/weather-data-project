@@ -4,7 +4,7 @@ Sistem ini merupakan solusi Automated Data Pipeline yang dirancang untuk mengelo
 
 Team Roles & Responsibilities
 
-
+----------------------------------------------------------------------------------------
 - Ahmad Maulana — PM & Data Engineer
 
 
@@ -21,7 +21,7 @@ Team Roles & Responsibilities
  - Transformasi data menggunakan dbt
  - Pembangunan dan pengelolaan infrastruktur berbasis Docker (Dockerized infrastructure)
 
-
+----------------------------------------------------------------------------------------
 - Alya Gustasya — Data Analyst
 
   
@@ -32,7 +32,7 @@ Team Roles & Responsibilities
  - Pembuatan dan pengembangan dashboard interaktif menggunakan Apache Superset
  - Penyajian visualisasi data yang informatif dan mudah dipahami
 
-
+----------------------------------------------------------------------------------------
 - Gilang Damar Pamungkas - Technical Writer
 
   
